@@ -1,0 +1,25 @@
+  div
+  {
+    text-align: justify;
+  }
+
+  .Menu
+  {
+    width: 185px;
+    float: left;
+  }
+
+  .Content
+  {
+    margin-left: 200px;
+  }
+div.Menu p {
+  color: blue; }
+
+@media all and (min-width: 800px) {
+  .Content {
+    background-image: url(img/ball.png);
+    background-repeat: repeat-y;
+    background-position: right top; } }
+
+/*# sourceMappingURL=main.bundle.b3ec1600c97e2d7f276563e3e5228ce0.css.map*/
